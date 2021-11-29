@@ -34,7 +34,7 @@ contract Creator is ERC1155, Ownable {
     event withdrawProfit(uint _value, address indexed _destination);
 
     constructor() ERC1155("https://creator.example/api/item/{id}.json") {
-        priceFeed = AggregatorV3Interface(0xF9680D99D6C9589e2a93a78A04A279e509205945);
+        priceFeed = AggregatorV3Interface(0xAB594600376Ec9fD91F8e885dADF0CE036862dE0);
     }
 
     receive() external payable {

@@ -2,8 +2,8 @@
   "_format": "hh-sol-cache-2",
   "files": {
     "/Users/jelilatanofiu/multitoken/contracts/Creator.sol": {
-      "lastModificationDate": 1638159906153,
-      "contentHash": "e580df1f80e0dbbda7caad978dafb5b5",
+      "lastModificationDate": 1638168393858,
+      "contentHash": "0225be21ef2505e2e711f7376f214332",
       "sourceName": "contracts/Creator.sol",
       "solcConfig": {
         "version": "0.8.9",
