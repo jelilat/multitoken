@@ -10,7 +10,7 @@ This is a multitoken Smart Contract that allows users create and distribute thei
 
 ## Deployment 
 
-Deployed on the Polygon mainnet at the address `[0xeD5db0d3A0855397B2a954F362EC6283403D0dEc](https://polygonscan.com/address/0xeD5db0d3A0855397B2a954F362EC6283403D0dEc)`
+Deployed on the Polygon mainnet at the address [0xeD5db0d3A0855397B2a954F362EC6283403D0dEc](https://polygonscan.com/address/0xeD5db0d3A0855397B2a954F362EC6283403D0dEc)
 
 ## DApp
 
